@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @dharanithangaraj192gmail.com
+- 📫 How to reach me @dharanithangaraj19@gmail.com
 
 <!---
 T-Dharani/T-Dharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
